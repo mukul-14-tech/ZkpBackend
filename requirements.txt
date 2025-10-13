@@ -4,3 +4,7 @@ python-dotenv
 sqlalchemy>=1.4
 psycopg2-binary
 cryptography
+fastapi
+uvicorn[standard]
+pydantic
+opencv-python
